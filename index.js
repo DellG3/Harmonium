@@ -31,7 +31,7 @@ function handleKeyboardEvent(event) {
 function makeSound(key) {
   switch (key) {
     case "w": {
-      let tom1 = new Audio("sounds/tom-1.mp3");
+      let tom1 = new Audio("sounds/C.wav");
       tom1.play();
       break;
     }
