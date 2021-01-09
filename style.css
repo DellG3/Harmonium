@@ -10,7 +10,7 @@ body {
 h1 {
   font-size: 5rem;
   color: #FFA07A;
-  font-family: "Lucida Console", cursive;
+  font-family: "Lucida Console", monospace;
   text-shadow: 3px 0 #da0463;
 }
 
