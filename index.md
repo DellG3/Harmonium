@@ -1,3 +1,41 @@
-# Glass Harp
-## Enjoy!
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Drum Kit</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Arvo"
+      rel="stylesheet"
+    />
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
+    <script defer src="index.js"></script>
+  </head>
+
+  <body>
+    <h1 id="title">Drum 🥁 Kit</h1>
+    <div class="set">
+      <button class="w drum">w</button>
+      <button class="a drum">a</button>
+      <button class="s drum">s</button>
+      <button class="d drum">d</button>
+      <button class="j drum">j</button>
+      <button class="k drum">k</button>
+      <button class="l drum">l</button>
+    </div>
+    <div class="set">
+      <button class="z drum">z</button>
+      <button class="x drum">x</button>
+      <button class="c drum">c</button>
+    </div>
+
+    <footer style="margin-top: 70px;">
+      Made with ❤️ by
+      <a
+        style="color:rgb(221, 230, 238); text-decoration:none"
+        href="https://github.com/yogain123"
+        >Yogendra</a
+      >
+    </footer>
+  </body>
+</html>
