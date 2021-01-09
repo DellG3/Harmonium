@@ -19,7 +19,7 @@ footer {
   font-family: sans-serif;
 }
 
-.. {
+.w {
   background: url("images/small.png");
 }
 
@@ -86,7 +86,7 @@ footer {
 .drum {
   outline: none;
   border: 10px solid #404b69;
-  font-size: 5rem;
+  font-size: 3rem;
   font-family: "Arvo", cursive;
   line-height: 2;
   font-weight: 900;
@@ -95,8 +95,8 @@ footer {
   border-radius: 15px;
   display: inline-block;
   width: 150px;
-  height: 150px;
+  height: 250px;
   text-align: center;
   margin: 10px;
-  background-color: white;
+  background-color: blue;
 }
