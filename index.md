@@ -13,15 +13,16 @@
   </head>
 
   <body>
-    <h1 id="title">Drum 🥁 Kit</h1>
+    <h1 id="title">Glass Harp</h1>
     <div class="set">
-      <button class="w drum">w</button>
-      <button class="a drum">a</button>
-      <button class="s drum">s</button>
-      <button class="d drum">d</button>
-      <button class="j drum">j</button>
-      <button class="k drum">k</button>
-      <button class="l drum">l</button>
+      <button class="w drum">C</button>
+      <button class="a drum">D</button>
+      <button class="s drum">E</button>
+      <button class="d drum">F</button>
+      <button class="j drum">G</button>
+      <button class="k drum">A</button>
+      <button class="l drum">B</button>
+      <button class="l drum">C</button>
     </div>
     <div class="set">
       <button class="z drum">z</button>
@@ -30,11 +31,11 @@
     </div>
 
     <footer style="margin-top: 70px;">
-      Made with ❤️ by
+      Made with by
       <a
         style="color:rgb(221, 230, 238); text-decoration:none"
-        href="https://github.com/yogain123"
-        >Yogendra</a
+        href="www.google.com"
+        >Code Cadre</a
       >
     </footer>
   </body>
