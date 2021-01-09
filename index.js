@@ -70,7 +70,7 @@ function makeSound(key) {
       kick.play();
       break;
     }
-    case "x": {
+    case "k": {
       let kick = new Audio("sounds/Cf.mp3");
       kick.play();
       break;
