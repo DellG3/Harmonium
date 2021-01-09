@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8" />
-    <title>Drum Kit</title>
+    <title>Glass Harp</title>
     <link rel="stylesheet" href="styles.css" />
     <link
       href="https://fonts.googleapis.com/css?family=Arvo"
@@ -24,12 +24,7 @@
       <button class="l drum">B</button>
       <button class="l drum">C</button>
     </div>
-    <div class="set">
-      <button class="z drum">z</button>
-      <button class="x drum">x</button>
-      <button class="c drum">c</button>
-    </div>
-
+   
     <footer style="margin-top: 70px;">
       Made with by
       <a
