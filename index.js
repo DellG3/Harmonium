@@ -76,7 +76,7 @@ function makeSound(key) {
       break;
     }
     case "c": {
-      let kick = new Audio("sounds/tom-4.mp3");
+      let kick = new Audio("sounds/Cf.mp3");
       kick.play();
       break;
     }
