@@ -19,44 +19,36 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
-  background: url("images/small.png");
-}
-
 .a {
-  background: url("images/try.png");
+  background: url("images/1.png");
 }
 
 .s {
-  background: url("images/gl.png");
+  background: url("images/2.png");
 }
 
-.d {
-  background: url("images/dark.png");
-}
-
-.j {
-  background: url("images/sm.png");
-}
-
-.k {
-  background: url("images/crash.png");
-}
-
-.l {
-  background: url("images/sm.png");
-}
-
-.z {
-  background: url("images/gls.jpg");
-}
-
-.x {
-  background: url("images/sm.png");
+.d{
+  background: url("images/3.png");
 }
 
 .f {
   background: url("images/4.png");
+}
+
+.g {
+  background: url("images/5.png");
+}
+
+.h {
+  background: url("images/6.png");
+}
+
+.j {
+  background: url("images/7.png");
+}
+
+.k {
+  background: url("images/8.jpg");
 }
 
 .set {
