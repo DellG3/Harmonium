@@ -30,42 +30,42 @@ function handleKeyboardEvent(event) {
 
 function makeSound(key) {
   switch (key) {
-    case "w": {
+    case "a": {
       let tom1 = new Audio("sounds/C.mp3");
       tom1.play();
       break;
     }
-    case "a": {
+    case "s": {
       let tom2 = new Audio("sounds/D.mp3");
       tom2.play();
       break;
     }
-    case "s": {
+    case "d": {
       let snare = new Audio("sounds/E.mp3");
       snare.play();
       break;
     }
-    case "d": {
+    case "f": {
       let tom4 = new Audio("sounds/F.mp3");
       tom4.play();
       break;
     }
-    case "j": {
+    case "g": {
       let crash = new Audio("sounds/G.mp3");
       crash.play();
       break;
     }
-    case "k": {
+    case "h": {
       let tom3 = new Audio("sounds/A.mp3");
       tom3.play();
       break;
     }
-    case "l": {
+    case "j": {
       let kick = new Audio("sounds/B.mp3");
       kick.play();
       break;
     }
-    case "z": {
+    case "k": {
       let kick = new Audio("sounds/Cf.mp3");
       kick.play();
       break;
